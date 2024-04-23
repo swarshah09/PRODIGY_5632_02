@@ -1,4 +1,3 @@
 # Stopwatch Web Application
 
-[AppLink](https://stopwatchwebapplication.netlify.app/)
-
+## [AppLink](https://stopwatchwebapplication.netlify.app/)
